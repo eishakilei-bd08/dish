@@ -1,0 +1,35 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids" resolution="1280@720",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids" resolution="320@240",Kid Screation
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids" resolution="854@480",Hungama Kids
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8bf8ccf7bc01db3b8c4bc8576fb16f9d" group-title="Kids" resolution="768@432",Disney JR
+https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1753741242&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ab4f68738775e6ac8b8eb3898ffb5f4c
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0229450bbd66d8e761566cd49d80c5fe" group-title="Kids",3ABN Kids
+https://tvsen6.aynaott.com/3abnkids/index.m3u8?e=1753741242&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=03fa58be9855e30a6d750cd7614fdf95
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/350e9d008f0ec0b9c199e56bbc7cf43a" group-title="Kids",Dios Te Ve Kids
+https://tvsen6.aynaott.com/diostevekids/index.m3u8?e=1753741243&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=91046cdb166ed4f6b22aedc122d76fca
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dc6a6988bf98b389a5f93b58424ac625" group-title="Kids",Forever Kids
+https://tvsen6.aynaott.com/ForeverKids/index.m3u8?e=1753741243&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6042ef0acef2651a163a05f0402bcb9f
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b185552caee43053c62e46de26b1457a" group-title="Kids",Kids Prang TV
+https://tvsen6.aynaott.com/KidsPrangTV/index.m3u8?e=1753741243&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f3295e27e8afb445521c9eb5fbed3645
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b81808a440086d6b3ae6753cbd0cf25" group-title="Kids",M NET Kids
+https://tvsen6.aynaott.com/MNetKids/index.m3u8?e=1753741244&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=eaedb53782669499baac7f0dc846449b
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9b417f8a796216ce10c12ad10bb8ff05" group-title="Kids",Moonbug Kids
+https://tvsen6.aynaott.com/MoonbugKids/index.m3u8?e=1753741244&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=4988680344e2ad8f90ca4b252e4b9a1a
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a94bbf2609a31f9a50b36c6d924aa387" group-title="Kids",TVC Arabic Kids
+https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8?e=1753741244&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=62f5c3cc2266c9ee7ea32e9e3b10856c
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/750b284beb0b3639790dbc183b008901" group-title="Kids" resolution="768@432",Disney Channel
+https://tvsen7.aynaott.com/disney/index.m3u8?e=1753741245&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1989936af7222a9e0e45c2b27c830a95
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7872e438f032c00fb8699fe7e57a5dc9" group-title="Kids" resolution="768@432",Nickelodeon
+https://tvsen7.aynaott.com/nicklodean/index.m3u8?e=1753741245&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=90463cf388095b5b1c2783cc90405628
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/26da9dc3da3c13a1b8476af11a934105" group-title="Kids" resolution="768@432",Teen Nick
+https://tvsen7.aynaott.com/teennick/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b120b4ff1a8732bd8222a740f69693f6
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/072dcedd6c65b98d813ab23641f28255" group-title="Kids" resolution="768@432",YTV
+https://tvsen6.aynaott.com/ytv/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ed06c040a6b387fb1832c5095e893643
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg" group-title="Kids" resolution="1280@720",0. Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg" group-title="Kids" resolution="854@480",0. Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
