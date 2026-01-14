@@ -1,0 +1,52 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz; http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml; http://gabbarit.dtm-play.com/epg_1.xml"
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+http://rafail1982.uz/nexo2.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NexoIPTV.png" group-title="NEXO",NexoIPTV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+http://rafail1982.uz/NexoIPTV.mp4
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="AZ",Alvin Channel TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZ",APA Tv SD
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZ",ARB 24
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZ",ARB
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZ",ARB Gunes
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZ",Azad TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.postimg.cc/Vkbmrxkj/aztv.png" group-title="AZ",Az TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZ",Baku.TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.postimg.cc/cCw5NG7c/cbcsport.png" group-title="AZ",CBC Sport
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.postimg.cc/25h8qVxd/dunyatv.png" group-title="AZ",Dunya TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="AZ",EL TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZ",Ictimai TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="AZ",Medeniyyet TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://str.yodacdn.net/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZ",Space TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="AZ",Xezer TV
+#EXTVLCOPT:http-user-agent=Go-http-client/1.1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
