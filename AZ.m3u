@@ -1,3 +1,10 @@
+
+https://raw.githubusercontent.com/evasoha/lulu/refs/heads/main/abc.m3u
+
+
+
+
+
 #EXTM3U url-tvg="http://epg.one/epg.xml.gz; http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml; http://gabbarit.dtm-play.com/epg_1.xml"
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/NEXO.png" group-title="NEXO",NEXO
 #EXTVLCOPT:http-user-agent=Go-http-client/1.1
