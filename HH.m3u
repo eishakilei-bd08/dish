@@ -60,18 +60,7 @@ https://tvsen5.aynascope.net/espn/index.m3u8?e=1764396035&u=ef3dd85c-c300-4e09-b
 
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV
-https://tvsen6.aynascope.net/bloombergtv/index.m3u8?e=1764396050&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=52f3baebf75d392620612de52739de3e
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2",CNBC TV
-https://tvsen6.aynascope.net/cnbc/index.m3u8?e=1764396051&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6e99d108e277fa01df680ac9d06d3ea5
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/9f391e512f41bec54b163b83667da453",CP 24
-https://tvsen6.aynascope.net/cp24/index.m3u8?e=1764396052&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ab76707909c54db084135f993512e4e2
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2",MSNBC News
-https://tvsen6.aynascope.net/msnbc/index.m3u8?e=1764396053&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=16db9e9e544b4a720123a99ff97c65b7
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",ABC News
-https://tvsen6.aynascope.net/AbcNews/index.m3u8?e=1764396053&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=501be3d34d72691d25c9687cb7896cd6
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89",ABC 7 Bay
-https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb",Sky News
 https://tvsen5.aynascope.net/skynews/index.m3u8?e=1764396055&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d84debc24aa2b08af4aaddc432ca3d89
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/67ec5601a4ce880899953322b536a783",VTV USA
