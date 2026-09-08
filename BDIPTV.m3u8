@@ -18,6 +18,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom-2
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://s3.aynaott.com/storage/bb1e93cd63ca86130fe6f66393b7497b",Zoom TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084",Hindi Movie Classic 24
