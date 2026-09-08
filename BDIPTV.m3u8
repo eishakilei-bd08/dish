@@ -7,6 +7,15 @@
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="Bangla",MADANI TV
+https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1765763560&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=c798056b60e4f349747ff38494076474
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Kids" resolution="1280@720",0. Gopal Var
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png" group-title="Kids" resolution="1280@720",0. Hooray Rhymes
