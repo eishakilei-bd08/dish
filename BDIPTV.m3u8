@@ -92,6 +92,24 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Discovery_HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Eurosport_2_HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924",Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Music",Saga Music Haryanvi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
