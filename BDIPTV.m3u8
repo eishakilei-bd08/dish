@@ -12,8 +12,9 @@
 
 
 
-
-#EXTINF:-1 ,24.Zee Bangla
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1,Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
 #EXTINF:-1 ,Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
