@@ -57,34 +57,7 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76",Espn
 https://tvsen5.aynascope.net/espn/index.m3u8?e=1764396035&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=d5e23f79279f6081a1cbce68d006e414
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",Bleav Football
-https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a",BT Sports 2
-https://tvsen6.aynascope.net/btSport2/index.m3u8?e=1764396038&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=9061aaec95a3d52a6eb801df7f6aad4b
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c",TNT Sport 1
-https://tvsen6.aynascope.net/btSport1/index.m3u8?e=1764396038&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=a80838ac542841072fa0b10a9f79f06c
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/07decb298043de2944e444a03bc2bcbc",Geo Super HD
-http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8",Jamuna TV
-https://tvsen6.aynascope.net/jamunatv/index.m3u8?e=1764396041&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0ecdfbed426c0a89ef0c2607ac394b7a
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a",BTV News
-https://tvsen6.aynascope.net/BTVNews/index.m3u8?e=1764396042&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f4dbce3179db6986af80a48805f25631
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",Somoy News TV
-https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1764396043&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ca0a350b9b2b1daa34a16fa3c4c8420e
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7",Ekattor TV
-https://tvsen6.aynascope.net/ekattorbdtv/index.m3u8?e=1764396044&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=95100e34affcbd3464058b69b14e6d07
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b",News 24 BD
-https://tvsen6.aynascope.net/news24/index.m3u8?e=1764396044&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ba3079bcf782fbd210b29d3e93d86356
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",Channel 24
-https://tvsen6.aynascope.net/channel24/index.m3u8?e=1764396045&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=317dfae24b78fb5eae561fa612263693
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545",DBC News
-https://tvsen6.aynascope.net/dbcnews/index.m3u8?e=1764396046&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=9e7ccee627496758f5b2ac827ea95bdb
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697",Independent TV
-https://tvsen6.aynascope.net/independenttv/index.m3u8?e=1764396047&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=6c575a9f7b38e6ba6cb30311eae916a9
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/7a20437e5660324c20cf8251ccb7a697",BBC News
-https://tvsen6.aynascope.net/bbcnews/index.m3u8?e=1764396047&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ab4f41300c4da86e8df1908b8be0f1bd
-#EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",CNN
-https://tvsen6.aynascope.net/cnn/index.m3u8?e=1764396048&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0befdd2d20f87d5fbd0c4ce69322a3ab
+
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://s3.aynaott.com/storage/253dcc8b5951160d6aa26bc5ac65ddb8",Bloomberg TV
