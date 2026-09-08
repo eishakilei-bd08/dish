@@ -3,7 +3,8 @@
 
 
 
-
+#EXTINF:-1 group-title="HINDI MUSIC" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/880c1e6e-62cd-4632-b5f9-c5b34e14da61.jpg",7X PANJAB MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
 
 #EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
 http://66.45.232.131:9994/;stream.mp3
