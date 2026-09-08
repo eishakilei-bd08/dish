@@ -5,7 +5,8 @@
 
 
 
-
+#EXTINF:-1 group-title="Islam Channel" tvg-logo="https://i.ibb.co/VWsJmLnm/55339228349a.jpg",Quran Redio 📻
+http://66.45.232.131:9994/;stream.mp3
 #EXTINF:1 tvg-name="Tom & Jerry" tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/Tom%20and%20jery.jpg?raw=true" group-title="All-In-One~ENT🧩",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
